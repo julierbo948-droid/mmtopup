@@ -25,7 +25,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
     welcome_message = (
         f"မင်္ဂလာပါ {username}! 🙏\n\n"
-        "Codashop မှ Mobile Legends Diamonds ဝယ်ယူနိုင်သော Bot မှ ကြိုဆိုပါတယ်။\n\n"
+        "Myanmar Sever Mobile Legends Diamonds ဝယ်ယူနိုင်သော Bot မှ ကြိုဆိုပါတယ်။\n\n"
         f"လက်ကျန်ငွေ: {user["balance"]} Ks\n\n"
         "ဝယ်ယူရန် /buy ကိုနှိပ်ပါ။"
     )
